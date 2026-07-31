@@ -1,8 +1,8 @@
-# AquaPheno Dataset
+# 📊 AquaPheno Dataset
 
 The AquaPheno Dataset is a manually curated resource designed for training automated phenotyping pipelines for aquatic animals. It currently includes fish and shrimp, with additional aquatic species planned for future releases.
 
-## Experimental Setting
+## 📷 Experimental Setting
 
 <table>
   <tr>
@@ -19,7 +19,7 @@ The AquaPheno Dataset is a manually curated resource designed for training autom
   </tr>
 </table>
 
-## Fish
+## 🐟 Fish
 
 
-## Shrimp
+## 🦐 Shrimp
