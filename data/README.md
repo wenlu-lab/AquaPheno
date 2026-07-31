@@ -1,16 +1,14 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="setting.jpg" width="100%" alt="Input image">
+      <img src="setting.jpg" width="100%" alt="Experiment Setting">
     </td>
     <td width="50%" align="center">
-      <a href="left_autofish.mp4">
-        <img src="left_autofish.mp4" width="100%" alt="Watch demo video">
-      </a>
+      <img src="autofish.gif" width="100%" alt="Detection & Tracking">
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Experiment setting</b></td>
-    <td align="center"><b>Demo Video</b></td>
+    <td align="center"><b>Experiment Setting</b></td>
+    <td align="center"><b>Detection & Tracking</b></td>
   </tr>
 </table>
