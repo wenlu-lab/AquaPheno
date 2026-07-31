@@ -4,8 +4,8 @@
       <img src="setting.jpg" width="100%" alt="Input image">
     </td>
     <td width="50%" align="center">
-      <a href="autofish.mp4">
-        <img src="autofish.mp4" width="100%" alt="Watch demo video">
+      <a href="left_autofish.mp4">
+        <img src="left_autofish.mp4" width="100%" alt="Watch demo video">
       </a>
     </td>
   </tr>
