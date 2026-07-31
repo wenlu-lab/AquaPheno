@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="45%" align="center">
       <img src="setting.jpg" width="100%" alt="Experiment Setting">
     </td>
-    <td width="50%" align="center">
+    <td width="55%" align="center">
       <img src="autofish.gif" width="100%" alt="Detection & Tracking">
     </td>
   </tr>
